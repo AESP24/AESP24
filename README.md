@@ -1,57 +1,65 @@
+<div align="center">
+  <img src="./assets/hero.svg" alt="UN PROGRAMADOR X — AI/ML Engineer | Full-Stack Developer | Creative Technologist" width="100%">
+</div>
 
-## Delivery pipeline
+<br>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=aesp24&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230881355%3Fv%3D4" alt="aesp24 hero visual" />
-</p>
+## Hello
 
-**Enrique J.** · Frontend or full-stack engineer
+I build useful things and learn in public. My work so far sits between **data science and machine learning** (churn analysis and prediction with Python) and **front-end web development** (a vanilla JavaScript app), much of it grown out of challenges and courses at **Alura**.
 
-## Operating principles
+I'm aiming at the space where AI/ML, full-stack engineering and creative technology meet — and every repository below is a step in that direction.
 
-<pre><code>ROLE        = Frontend or full-stack engineer
-LOCATION    = remote
-PUBLIC_REPOS = 5
-COMMUNITY   = 0 followers</code></pre>
+<!--
+ACHIEVEMENTS — NOT PUBLISHED: nothing here could be verified against the repository or a resume.
+Fill this in with your own confirmed facts, then move it out of the comment.
 
-Building useful things and learning in public.
+## Achievements & education
 
-## Uptime in motion
+- Education: <degree, institution, years>  (add GPA/CGPA only if it is on your transcript)
+- <Competition or award — result — year>   (only if you can point to an official page or certificate)
+- <Certification — issuer — year>          (add the credential link)
+-->
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=aesp24&theme=github-dark" alt="aesp24 contribution activity" />
-</p>
+## Selected projects
 
-## Service signals
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [**TelecomXParte2**](https://github.com/AESP24/TelecomXParte2) | Customer churn prediction for a telecom company: exploratory analysis, class balancing with SMOTE, and a comparison of Logistic Regression and Random Forest. Built for an Alura ONE challenge. | Python · Jupyter |
+| [**TelecomX_Latam**](https://github.com/AESP24/TelecomX_Latam) | Churn analysis for the fictional company Telecom-X: an ETL workflow followed by exploratory data analysis. Built for an Alura ONE data science course. | Python · Pandas · NumPy · Matplotlib · Seaborn |
+| [**Amigo-Secreto**](https://github.com/AESP24/Amigo-Secreto) | A small web app for a Secret Santa draw: add up to 7 names and draw one at random. | HTML · CSS · JavaScript |
+| [**AluraStoreLatam**](https://github.com/AESP24/AluraStoreLatam) | Practice repository for what I've learned at Alura. | Notebooks |
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=aesp24&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230881355%3Fv%3D4" alt="aesp24 stats visual" />
-</p>
+## Skills
 
-<p><code>14 contributions</code> · <code>1 day streak</code></p>
+| Area | Technologies |
+| :-- | :-- |
+| **Data & ML** | Python · Pandas · NumPy · Jupyter / Colab · Logistic Regression · Random Forest · SMOTE |
+| **Visualization** | Matplotlib · Seaborn |
+| **Web** | HTML5 · CSS3 · JavaScript |
+| **Tools** | Git · GitHub |
 
-## Infrastructure shipped
+## Contribution activity
 
-- **[AESP24](https://github.com/AESP24/AESP24)** — My GitHub profile · ⭐ 0
-- **[TelecomXParte2](https://github.com/AESP24/TelecomXParte2)** — Featured public work · ⭐ 0
-- **[TelecomX_Latam](https://github.com/AESP24/TelecomX_Latam)** — Featured public work · ⭐ 0
-- **[AluraStoreLatam](https://github.com/AESP24/AluraStoreLatam)** — Uso de lo aprendido en Alura  · ⭐ 0
-- **[Amigo-Secreto](https://github.com/AESP24/Amigo-Secreto)** — Featured public work · ⭐ 0
+<div align="center">
+  <img src="https://ghchart.rshah.org/701A3D/aesp24" alt="GitHub contribution heatmap for aesp24" width="100%">
+  <br>
+  <sub>Live data from my GitHub contribution graph, rendered by <a href="https://ghchart.rshah.org">ghchart.rshah.org</a>.</sub>
+</div>
 
-## Platform toolkit
+## Find me
 
-<p><code>aesp24@github:~$ toolbox --list</code></p>
+- GitHub — [github.com/aesp24](https://github.com/aesp24)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=aesp24&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230881355%3Fv%3D4" alt="aesp24 stack visual" />
-</p>
+<!--
+MORE LINKS — add only profiles you actually own (use full URLs):
+- LinkedIn — https://www.linkedin.com/in/<your-handle>
+- LeetCode — https://leetcode.com/u/<your-handle>
+- Portfolio — https://<your-site>
+-->
 
-## Keep it moving
+<br>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=aesp24&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230881355%3Fv%3D4" alt="aesp24 social visual" />
-</p>
-
-<a href="https://github.com/aesp24">GitHub</a>
-
-<p align="center"><sub>Enrique J. · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<div align="center">
+  <img src="./assets/footer.svg" alt="Building useful things and learning in public." width="100%">
+</div>
